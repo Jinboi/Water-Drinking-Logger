@@ -17,43 +17,43 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = WaterLogger
 build_property.RootNamespace = WaterLogger
-build_property.ProjectDir = C:\Users\Youngwoo\Documents\MEGA\WIP\02-WIP\Oct 3\Water-Drinking-Logger\WaterLogger\WaterLogger\
+build_property.ProjectDir = C:\Users\yjin\OneDrive - soprema\Documents\MEGA\WIP\02-GitWIP\Oct 8\Water-Drinking-Logger\WaterLogger\WaterLogger\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\Youngwoo\Documents\MEGA\WIP\02-WIP\Oct 3\Water-Drinking-Logger\WaterLogger\WaterLogger
+build_property.MSBuildProjectDirectory = C:\Users\yjin\OneDrive - soprema\Documents\MEGA\WIP\02-GitWIP\Oct 8\Water-Drinking-Logger\WaterLogger\WaterLogger
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/Youngwoo/Documents/MEGA/WIP/02-WIP/Oct 3/Water-Drinking-Logger/WaterLogger/WaterLogger/Pages/Create.cshtml]
+[C:/Users/yjin/OneDrive - soprema/Documents/MEGA/WIP/02-GitWIP/Oct 8/Water-Drinking-Logger/WaterLogger/WaterLogger/Pages/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Youngwoo/Documents/MEGA/WIP/02-WIP/Oct 3/Water-Drinking-Logger/WaterLogger/WaterLogger/Pages/Delete.cshtml]
+[C:/Users/yjin/OneDrive - soprema/Documents/MEGA/WIP/02-GitWIP/Oct 8/Water-Drinking-Logger/WaterLogger/WaterLogger/Pages/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Youngwoo/Documents/MEGA/WIP/02-WIP/Oct 3/Water-Drinking-Logger/WaterLogger/WaterLogger/Pages/Index.cshtml]
+[C:/Users/yjin/OneDrive - soprema/Documents/MEGA/WIP/02-GitWIP/Oct 8/Water-Drinking-Logger/WaterLogger/WaterLogger/Pages/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Youngwoo/Documents/MEGA/WIP/02-WIP/Oct 3/Water-Drinking-Logger/WaterLogger/WaterLogger/Pages/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/yjin/OneDrive - soprema/Documents/MEGA/WIP/02-GitWIP/Oct 8/Water-Drinking-Logger/WaterLogger/WaterLogger/Pages/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Youngwoo/Documents/MEGA/WIP/02-WIP/Oct 3/Water-Drinking-Logger/WaterLogger/WaterLogger/Pages/Update.cshtml]
+[C:/Users/yjin/OneDrive - soprema/Documents/MEGA/WIP/02-GitWIP/Oct 8/Water-Drinking-Logger/WaterLogger/WaterLogger/Pages/Update.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVXBkYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Youngwoo/Documents/MEGA/WIP/02-WIP/Oct 3/Water-Drinking-Logger/WaterLogger/WaterLogger/Pages/_ViewImports.cshtml]
+[C:/Users/yjin/OneDrive - soprema/Documents/MEGA/WIP/02-GitWIP/Oct 8/Water-Drinking-Logger/WaterLogger/WaterLogger/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Youngwoo/Documents/MEGA/WIP/02-WIP/Oct 3/Water-Drinking-Logger/WaterLogger/WaterLogger/Pages/_ViewStart.cshtml]
+[C:/Users/yjin/OneDrive - soprema/Documents/MEGA/WIP/02-GitWIP/Oct 8/Water-Drinking-Logger/WaterLogger/WaterLogger/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Youngwoo/Documents/MEGA/WIP/02-WIP/Oct 3/Water-Drinking-Logger/WaterLogger/WaterLogger/Pages/Shared/_Layout.cshtml]
+[C:/Users/yjin/OneDrive - soprema/Documents/MEGA/WIP/02-GitWIP/Oct 8/Water-Drinking-Logger/WaterLogger/WaterLogger/Pages/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-chhpgq1tke
