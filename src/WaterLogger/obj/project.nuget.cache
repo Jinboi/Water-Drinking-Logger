@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "hE6OvIBpmK8F5i3ZlOINbFe3EkJtzWDYO9b65Ag1IMMNp+rAOU5DEV5zmWRP0lRe5LBYO7o7P0LiUOu7pYZnVw==",
+  "dgSpecHash": "hxm5CulqhBm17JU/FzaLvqQ13+8x1+BWnWHC7L55afsObT0EKwqDgj0B18IncLYZo1S91mSufS9mHdE9w+7PlA==",
   "success": true,
-  "projectFilePath": "C:\\MEGA\\WIP\\02-GitWIP\\Oct 11\\Water-Drinking-Logger\\src\\WaterLogger\\WaterLogger.csproj",
+  "projectFilePath": "C:\\MEGA\\WIP\\02-GitWIP\\Oct 13\\Water-Drinking-Logger\\src\\WaterLogger\\WaterLogger.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\duddn\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",
     "C:\\Users\\duddn\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",

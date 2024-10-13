@@ -35,53 +35,33 @@ This is the C# MVC Project #1.
 3. Run the application using the .NET CLI:
 	- `dotnet run`
 
-### Console Screenshots
+### Screenshots
 
 This is the initial screen of the app when you start:
 
-![HabitLogger initial screen](./img/habitLoggerInitialScreen.PNG)
+![WaterDrinkingLogger initial screen](./img/waterDrinkingLoggerFrontPage.PNG)
 
-You will notice that seed data has been entered already if you type 1 to view all records.
+You can click on the Add New Record to add a new entry:
 
-![HabitLogger main menu screen](./img/habitLoggerMainMenu.PNG)
+![WaterDrinkingLogger Add New Record](./img/AddNewRecord.PNG)
 
-You can type 2 to add a new log of a habit.
+You can also click on the edit button to update a record:
 
-![HabitLogger add habit log screen](./img/habitLoggerLogScreen.PNG)
+![WaterDrinkingLogger Update Record](./img/UpdateRecord.PNG)
 
-You can type 5 to add a new habit.
+Once you've updated a record, you can see that the total amount has changed.
 
-![HabitLogger add habit screen](./img/habitLoggerAddHabit.PNG)
+![WaterDrinkingLogger Updated Front Screen](./img/UpdatedFront.PNG)
 
 
-You can also generate reports to view habit performance over time:
+You can click on the Calculate Total to see the total amount of water consumption:
 
-![HabitLogger report screen](./img/habitLoggerReportScreen.PNG)
-
-You can also generate reports to view yearly performance over time:
-
-![HabitLogger report screen](./img/habitLoggerYearlyReportScreen.PNG)
-
-## Choose an option:
-- **0**: To Close Application
-- **1**: To View All Records
-- **2**: To Insert Record
-- **3**: To Delete Record
-- **4**: To Update Record
-- **5**: To Add New habit 
-- **6**: To View Performanc Report
-- **7**: To View Yearly Report
-
-## How It Works
-
-- **Menu Navigation**: Follow the on-screen instructions to log habits, view history, or generate reports.
-- **Customizable Habits**: Create habits that are meaningful to you and track them in a way that makes sense.
-- **Habit Reports**: Get detailed reports on your habits, including frequency and specific metrics.
+![WaterDrinkingLogger](./img/CalculateTotal.PNG)
 
 ## Room for Improvements
 
-- Consider using Spectre.Console for a more polished UI. 
-- Additional features like reminders and habit streaks could be added.
+- Additional features such as reports to see water consumption per week/months/year
+- Setting up daily water consumption goals and how far you are from reaching your goals
 
 ## Contributing
 
