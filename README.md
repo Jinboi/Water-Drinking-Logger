@@ -39,24 +39,24 @@ This is the C# MVC Project #1.
 
 This is the initial screen of the app when you start:
 
-![WaterDrinkingLogger initial screen](./img/waterDrinkingLoggerFrontPage.PNG)
+![WaterDrinkingLogger initial screen](./img/waterDrinkingLoggerFrontPage.png)
 
 You can click on the Add New Record to add a new entry:
 
-![WaterDrinkingLogger Add New Record](./img/AddNewRecord.PNG)
+![WaterDrinkingLogger Add New Record](./img/AddNewRecord.png)
 
 You can also click on the edit button to update a record:
 
-![WaterDrinkingLogger Update Record](./img/UpdateRecord.PNG)
+![WaterDrinkingLogger Update Record](./img/UpdateRecord.png)
 
 Once you've updated a record, you can see that the total amount has changed.
 
-![WaterDrinkingLogger Updated Front Screen](./img/UpdatedFront.PNG)
+![WaterDrinkingLogger Updated Front Screen](./img/UpdatedFront.png)
 
 
 You can click on the Calculate Total to see the total amount of water consumption:
 
-![WaterDrinkingLogger](./img/CalculateTotal.PNG)
+![WaterDrinkingLogger CalculateTotal](./img/CalculateTotal.png)
 
 ## Room for Improvements
 
